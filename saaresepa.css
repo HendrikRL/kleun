@@ -1,0 +1,46 @@
+* {
+	background-color: gray;
+	font-family: 'Rokkitt', serif;
+}
+
+
+.title {
+	padding: 50px;
+}
+
+.line {
+	padding: 20px;
+	background-color: #0099ff;
+}
+
+.potato {
+	height: 300px;
+	width: 1140px;
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+
+}
+
+.textbox {
+	width:600px;
+	height:300px;
+	line-height:3em;
+	padding:5px;
+	background-color:lightblue;
+	color:black;
+	border:4px double #DEBB07;
+}
+
+.map {
+	width:400px; 
+	height:300px; 
+	frameborder: 0; 
+	border: 0;
+}
+
+.link {
+	color: black;
+}
